@@ -3,6 +3,12 @@
 ![Screenshot](./screenshot.png)
 
 ## Install
+Use:
+
+colourscheme --url https://raw.githubusercontent.com/reptiloid/tridactyl/main/dracula.css dracula_custom
+
+command to set your custom theme.
+
 
 All instructions can be found at [draculatheme.com/tridactyl](https://draculatheme.com/tridactyl).
 
