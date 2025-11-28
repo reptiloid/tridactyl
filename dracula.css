@@ -45,14 +45,13 @@
 }
 
 #tridactyl-input {
-  padding: 1rem;
+  padding: .5rem;
   color: var(--tridactyl-fg);
   width: 90%;
   font-size: 1.5rem;
   line-height: 1.5;
   background: var(--tridactyl-bg);
   padding-left: unset;
-  padding: 1rem;
 }
 
 #completions table {
@@ -60,9 +59,7 @@
   font-weight: 200;
   border-spacing: 0;
   table-layout: fixed;
-  padding: 1rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding: .5rem;
 }
 
 #completions > div {
@@ -78,7 +75,7 @@
   background: var(--tridactyl-bg);
   display: inline-block;
   font-size: unset;
-  font-weight: 200;
+  font-weight: 300;
   overflow: hidden;
   width: 100%;
   border-top: unset;
@@ -153,9 +150,8 @@
   background: var(--tridactyl-bg) !important;
   border: unset !important;
   border: 1px var(--purple) solid !important;
-  font-size: 12pt !important;
-  /*font-weight: 200 !important;*/
-  padding: 0.8ex !important;
+  font-size: 9pt !important;
+  padding: 0.6ex !important;
 }
 
 #completions .focused {
